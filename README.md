@@ -24,7 +24,7 @@ Ensure you have Python installed. It is recommended to use `miniconda` or `conda
     Navigate to the project directory and install the necessary packages:
 
     ```bash
-    cd /path/to/your/chatbot-streamlit-demo
+    cd /path/to/your/uxlaws
     pip install -r requirements.txt
     ```
 
@@ -62,3 +62,4 @@ Ensure you have Python installed. It is recommended to use `miniconda` or `conda
 - requirements.txt: Lists all Python dependencies required for the project.
 - streamlit_react_app.py: (Optional) Another Streamlit application, possibly demonstrating React integration.
 - streamlit_react_tools_app.py: (Optional) Another Streamlit application, possibly demonstrating React tools integration.
+
